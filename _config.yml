@@ -1,6 +1,6 @@
 # Site settings
 title: Ravikanth Narayanabhatla
-twitter_username: rob_hinds
+twitter_username: rkrdotcom
 name: Ravikanth Narayanabhatla
 
 # Build settings
@@ -32,8 +32,7 @@ skills:
  - REST
  - Tech Architecture
 
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+
 
 #Work experience is required
 roles:
@@ -73,20 +72,6 @@ coursera:
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
       date: April 28, 2014
 
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
 
 #Stackoverflow flair is optional
 stackoverflow:
